@@ -63,3 +63,11 @@ padding-top: -6px;
     object-fit: contain;
 margin-right: 0;
 }
+@media (max-width: 700px) {
+   .Header__left ul{
+    display: none;
+   }
+   .Header__right{
+padding-right: 0;
+   }
+}

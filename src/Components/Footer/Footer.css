@@ -3,6 +3,7 @@ background-color: #111;
 	color: grey;
     display: flex;
    padding-left: 100px;
+ margin-top: -20px;
 }
 .inner__wrapper{
 padding-top: 100px;
@@ -51,6 +52,7 @@ display: flex;
 .service_code{
    margin-left: 20px;
    margin-left: -50px;
+   margin-bottom: 20px;
 }
 .service_code p{
     display: flex;
